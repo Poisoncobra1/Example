@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CourseWork.dir/main.c.o CMakeFiles/CourseWork.dir/FileOperations.c.o  -o CourseWork 
